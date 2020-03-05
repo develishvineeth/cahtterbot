@@ -11,9 +11,13 @@ ChatterBot is a Python library that makes it easy to generate automated response
 > https://github.com/gunthercox/ChatterBot
 
 # IMPORTANT DETAILS ABOUT FILES:
-1.the application is embedded in the virtualenv named **env**
-2.the folder can be opened in **vscode**
+1. the application is embedded in the virtualenv named **env**
+
+2. the folder can be opened in **vscode**
+
 3. **app.py** is the main executable
-4.**templates** folder contain html websites
+
+4. **templates** folder contain html websites
+
 5. **static** folder contains css/images/Styles
 

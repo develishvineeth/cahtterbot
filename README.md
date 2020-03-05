@@ -9,3 +9,7 @@ https://dev.to/sahilrajput/build-a-chatbot-using-flask-in-5-minutes-574i
 https://codinginfinite.com/chatbot-in-python-flask-tutorial/
 
 https://github.com/gunthercox/ChatterBot
+
+# IMPORTANT DETAILS ABOUT FILES:
+1.the application is embedded in the virtualenv named # env
+2.the folder can be opened in vscode

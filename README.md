@@ -25,8 +25,7 @@ ChatterBot is a Python library that makes it easy to generate automated response
 > **This project is made from various sources linked above and is an example application 
      unauthorized access and misuse of this application is strictly discouraged/prohibited.**
 
-**contributers:**
-> **ERROR#404 : **
+# contributers:**ERROR#404 : **
 **develishvineeth,
 ritesh,
 yashwanth,

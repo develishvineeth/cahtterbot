@@ -2,22 +2,22 @@
 
 ChatterBot is a Python library that makes it easy to generate automated responses to a user’s input. ChatterBot uses a selection of machine learning algorithms to produce different types of responses. This makes it easy for developers to create chat bots and automate conversations with users
 
-reference websites:
+**reference websites:**
 
-https://dev.to/sahilrajput/build-a-chatbot-using-flask-in-5-minutes-574i
+> https://dev.to/sahilrajput/build-a-chatbot-using-flask-in-5-minutes-574i
 
-https://codinginfinite.com/chatbot-in-python-flask-tutorial/
+> https://codinginfinite.com/chatbot-in-python-flask-tutorial/
 
-https://github.com/gunthercox/ChatterBot
+> https://github.com/gunthercox/ChatterBot
 
 # IMPORTANT DETAILS ABOUT FILES:
-1.the application is embedded in the virtualenv named env
+1.the application is embedded in the virtualenv named **env**
 
-2.the folder can be opened in vscode
+2.the folder can be opened in **vscode**
 
-3. app.py is the main executable 
+3. **app.py** is the main executable 
 
-4.templates folder contain html websites
+4.**templates** folder contain html websites
 
-5. static folder contains css/images/Styles
+5. **static** folder contains css/images/Styles
 

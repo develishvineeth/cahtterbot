@@ -23,6 +23,8 @@ ChatterBot is a Python library that makes it easy to generate automated response
 
 5. **static** folder contains css/images/Styles
 
+6. all the trained models are stored in **dbsqlite**
+
 # DISCLAIMER:
 > **This project is made from various sources linked above and is an example application 
      unauthorized access and misuse of this application is strictly discouraged/prohibited.**

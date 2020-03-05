@@ -33,4 +33,4 @@ dheeraj,
 bhargav.**
 
 
-![enter image description here](chatterbot_BETA/env/static/img/cahtbot1.png)
+![enter image description here](chatterbot/chatterbot_BETA/env/static/img/cahtbot1.png)

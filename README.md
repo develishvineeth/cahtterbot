@@ -11,5 +11,7 @@ https://codinginfinite.com/chatbot-in-python-flask-tutorial/
 https://github.com/gunthercox/ChatterBot
 
 # IMPORTANT DETAILS ABOUT FILES:
-1.the application is embedded in the virtualenv named # env
+1.the application is embedded in the virtualenv named 
+# env
+
 2.the folder can be opened in vscode

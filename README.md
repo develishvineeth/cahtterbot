@@ -21,3 +21,6 @@ ChatterBot is a Python library that makes it easy to generate automated response
 
 5. **static** folder contains css/images/Styles
 
+# DISCLAIMER
+
+# DISCLAIMER
